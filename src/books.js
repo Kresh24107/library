@@ -1,51 +1,57 @@
 const books = [
   {
     id: 1,
-    title: "Book 1",
+    title: "Z Book 1",
     author: "Author 1",
-    year: 2010,
-    genre: ["travel"],
-    quantity: 5
+    year: 2019,
+    ganre: "travel",
+    quantity: 5,
+    editNow: false
   },
   {
     id: 2,
-    title: "Book 2",
+    title: "G Book 2",
     author: "Author 2, Author 3",
-    year: 2011,
-    genre: ["travel"],
-    quantity: 7
+    year: 2017,
+    ganre: "travel",
+    quantity: 7,
+    editNow: false
   },
   {
     id: 3,
-    title: "Book 3",
+    title: "K Book 3",
     author: "Author 1",
-    year: 2010,
-    genre: ["history"],
-    quantity: 10
+    year: 2018,
+    ganre: "history",
+    quantity: 10,
+    editNow: false
   },
   {
     id: 4,
-    title: "Book 4",
+    title: "A Book 4",
     author: "Author 3",
-    year: 2012,
-    genre: ["military"],
-    quantity: 3
+    year: 2016,
+    ganre: "military",
+    quantity: 3,
+    editNow: false
   },
   {
     id: 5,
-    title: "Book 5",
+    title: "Z Book 5",
     author: "Author 2",
     year: 2011,
-    genre: ["history"],
-    quantity: 8
+    ganre: "history",
+    quantity: 8,
+    editNow: false
   },
   {
     id: 6,
-    title: "Book 6",
+    title: "M Book 6",
     author: "Author 3",
     year: 2012,
-    genre: ["military"],
-    quantity: 4
+    ganre: "military",
+    quantity: 4,
+    editNow: false
   }
 ];
 
