@@ -1,2 +1,0 @@
-(this.webpackJsonplibrary=this.webpackJsonplibrary||[]).push([[0],{3:function(e,n,r){e.exports=r(8)},8:function(e,n,r){"use strict";r.r(n);var t=r(0),a=r.n(t),c=r(2);var i=function(){return a.a.createElement("h1",null,"Library")};r.n(c).a.render(a.a.createElement(i,null),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.285d41f1.chunk.js.map
