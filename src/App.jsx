@@ -1,7 +1,14 @@
 import React from "react";
+import BooksList from "./components/BookList";
+import Header from "./components/Header";
 
-function App() {
-  return <h1>Library</h1>;
-}
+const App = () => {
+  return (
+    <>
+      <Header />
+      <BooksList />
+    </>
+  );
+};
 
 export default App;
